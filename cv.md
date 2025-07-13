@@ -5,14 +5,16 @@
 * **email:** sannyasi326@gmail.com
 * **phone:** +7 925 111-222-33
 * **Telegram:** @Sergey
-* [https://www.linkedin.com/in/sergey-kulik-9342824/]**(LinkedIn)**
-* [https://github.com/Serge-181]**(GitHub)**
+* [LinkedIn](https://www.linkedin.com/in/sergey-kulik-9342824/)
+* [GitHub](https://github.com/Serge-181)
+
 ---
 
-## Briefly about myself.
+## Briefly about myself
 I began my career as a technical translator, combining my background in electronic engineering and linguistics. Over the years, I’ve translated a wide range of technical documentation between English and Russian, gaining a deep understanding of engineering texts and terminology. My attention to detail and interest in accuracy naturally led me to editorial work. Today, I am a chief editor at a translation agency, where I oversee complex technical projects and ensure the highest standards of quality.
 Outside of translation, I’ve always been drawn to technology and visual creativity. I create 3D art using 3ds Max, Adobe Photoshop, Illustrator, and Substance Painter, constantly learning new tools and techniques to bring my ideas to life.
 My long-standing interest in computers and programming has inspired me to explore software development. My goal is to learn programming languages to expand my capabilities, both in translation automation and in digital content creation.
+
 ---
 
 ## Skills
@@ -25,11 +27,11 @@ My long-standing interest in computers and programming has inspired me to explor
 
 ## Code Example
 ```
-def greet():
-message = "Hello, World!"
-print(message)
+    def greet():
+       message = "Hello, World!"
+       print(message)
 
-greet()
+    greet()
 ```
 ---
 
